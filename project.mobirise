@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "project-2017-12-01_231634",
+    "name": "testefilmes",
     "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
@@ -38,9 +38,9 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://testefilmes.github.io/index/",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/150px-popcorn2012ff-128x140.png",
     "noImageResize": "",
-    "cookiesAlert": "",
+    "cookiesAlert": "Usamos cookies para lhe dar a melhor experiência. Leia nossa <a href='privacy.html'> política de cookies </a>.",
     "google-analytics": "",
     "sitemapSwitcher": "on"
   },
