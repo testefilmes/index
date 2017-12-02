@@ -38,7 +38,7 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
