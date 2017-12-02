@@ -5,10 +5,11 @@
     "theme": {
       "name": "purity",
       "title": "PurityM",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 8,
     "versionPublish": "4.5.1",
     "favicon": "",
     "noImageResize": "",
@@ -28,28 +29,62 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
           "_params": {
-            "showText": true
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "20",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
-              "width": 1400
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-4.jpg"
             },
             "video": {
               "src": "https://www.ok.ru/video/357590960798",
+              "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false,
               "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
             }
           },
+          "title": "Bater ou Correr<br>em londres",
           "text": "",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-5"
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ver</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
