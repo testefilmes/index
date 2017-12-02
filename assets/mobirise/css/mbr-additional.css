@@ -1363,10 +1363,43 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qCBNAk0Cx5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #465052;
+.cid-qCBOzd0r2R {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qCBOzd0r2R .card-img {
+  background-color: #fff;
+}
+.cid-qCBOzd0r2R .card-box {
+  padding: 2rem;
+}
+.cid-qCBOzd0r2R h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qCBOzd0r2R p {
+  text-align: left;
+}
+.cid-qCBOzd0r2R .mbr-text {
+  color: #767676;
+}
+.cid-qCBOzd0r2R .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qCBOzd0r2R .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qCBOzd0r2R .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
 }
 .cid-qCBMTZoNVo {
   padding-top: 60px;
