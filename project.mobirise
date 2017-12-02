@@ -42,11 +42,12 @@
                 "active": true,
                 "showButtons": true,
                 "showText": false,
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
@@ -82,7 +83,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -91,10 +92,12 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "https://www.youtube.com/watch?v=3BXq73F2_z4",
+              "autoplay": "on",
+              "loop": false
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "alias": "purity/components",
           "_tags": [
             "Theme"
