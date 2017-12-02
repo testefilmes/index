@@ -58,7 +58,7 @@
               "src": "@THEME_PATH@/components/_images/photo-4.jpg"
             },
             "video": {
-              "src": "https://www.ok.ru/video/357590960798",
+              "src": "http://filmesmania.com.br/player/?id=0B1WVog05O1PXb1kyUnpIZWg0enc",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false,
